@@ -1,0 +1,16 @@
+backup/
+*.mp4
+*.avi
+__pycache__/
+Videos
+*.weights
+*.mp4
+.idea/
+*.pth
+build
+caches
+support.egg-info
+pycocotools
+
+*.so
+rene_video.mov
